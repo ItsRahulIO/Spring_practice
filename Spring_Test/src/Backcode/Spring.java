@@ -14,5 +14,9 @@ public class Spring
     {
         System.out.println("Hello tester");
     }
+    public static void test2()
+    {
+        System.out.println("This is second test");
+    }
 
 }
